@@ -122,17 +122,23 @@ Returns all available fashion products.
 
 # 📷 Screenshots
 
-### Home Page
+## 📸 Screenshots
 
-(Add Screenshot)
+### 🏠 Home Page
 
-### Product Collection
+![Home](screenshots/home.png)
 
-(Add Screenshot)
+---
 
-### Shopping Cart
+### 🛍️ Products Page
 
-(Add Screenshot)
+![Products](screenshots/products.png)
+
+---
+
+### 🛒 Shopping Cart
+
+![Cart](screenshots/cart.png)
 
 ---
 
