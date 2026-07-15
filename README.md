@@ -1,47 +1,89 @@
-# ShopEase - Simple E-Commerce Website
+# 👗 LUXE THREAD
 
-A full-stack e-commerce application built with **Next.js** (frontend), **Node.js/Express** (backend), and **CSS**.
+A modern luxury fashion e-commerce website built with **Next.js, Node.js, Express.js, and REST API**.
 
-## Features
+## 🌐 Live Demo
 
-- Product catalog with search and category filtering
-- Product detail pages with quantity selection
-- Shopping cart with add, update, and remove
-- Checkout flow with order confirmation
-- Responsive design with modern CSS
+Frontend (Vercel)
 
-## Project Structure
+https://luxe-thread-ecommerce.vercel.app
+
+Backend API (Render)
+
+https://luxe-thread-backend.onrender.com/api/products
+
+---
+
+# ✨ Features
+
+- Modern Luxury Fashion UI
+- Hero Landing Page
+- Product Catalog
+- Category Filtering
+- Product Search
+- Shopping Cart
+- Quantity Management
+- Remove From Cart
+- Responsive Design
+- REST API Integration
+- Express Backend
+- Next.js App Router
+- TypeScript Support
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+
+- Next.js
+- React
+- TypeScript
+- CSS
+
+### Backend
+
+- Node.js
+- Express.js
+
+### Deployment
+
+- Vercel
+- Render
+
+---
+
+# 📁 Project Structure
 
 ```
-├── backend/          # Node.js Express API server
-│   ├── data/         # Product seed data
-│   └── server.js     # API routes
-├── frontend/         # Next.js React application
-│   ├── app/          # Pages (App Router)
-│   ├── components/   # Reusable UI components
-│   ├── context/      # Cart state management
-│   └── lib/          # API client & types
+luxe-thread-ecommerce
+│
+├── frontend
+│   ├── app
+│   ├── components
+│   ├── context
+│   ├── lib
+│   └── styles
+│
+├── backend
+│   ├── data
+│   ├── server.js
+│   └── package.json
+│
+└── README.md
 ```
 
-## Getting Started
+---
 
-### Prerequisites
+# 🚀 Installation
 
-- Node.js 18+ installed
-
-### 1. Start the Backend
+Clone the repository
 
 ```bash
-cd backend
-npm install
-npm run dev
+git clone https://github.com/syedsaud15/luxe-thread-ecommerce.git
 ```
 
-The API server runs at **http://localhost:5000**
-
-### 2. Start the Frontend
-
-Open a new terminal:
+Frontend
 
 ```bash
 cd frontend
@@ -49,23 +91,70 @@ npm install
 npm run dev
 ```
 
-The website runs at **http://localhost:3000**
+Backend
 
-## API Endpoints
+```bash
+cd backend
+npm install
+npm start
+```
 
-| Method | Endpoint              | Description          |
-|--------|-----------------------|----------------------|
-| GET    | `/api/products`       | List all products    |
-| GET    | `/api/products/:id`   | Get product by ID    |
-| GET    | `/api/categories`     | List categories      |
-| GET    | `/api/cart`           | Get cart contents    |
-| POST   | `/api/cart`           | Add item to cart     |
-| PUT    | `/api/cart/:productId`| Update cart quantity |
-| DELETE | `/api/cart/:productId`| Remove from cart     |
-| POST   | `/api/checkout`       | Place an order       |
+---
 
-## Tech Stack
+# 🔗 API Endpoint
 
-- **Frontend:** Next.js 14, React 18, TypeScript, CSS
-- **Backend:** Node.js, Express, CORS
-- **Images:** Unsplash (remote)
+```
+GET /api/products
+```
+
+Returns all available fashion products.
+
+---
+
+# 📱 Responsive Design
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile
+
+---
+
+# 📷 Screenshots
+
+### Home Page
+
+(Add Screenshot)
+
+### Product Collection
+
+(Add Screenshot)
+
+### Shopping Cart
+
+(Add Screenshot)
+
+---
+
+# 🎯 Future Improvements
+
+- User Authentication
+- Wishlist
+- Payment Gateway
+- Order History
+- Admin Dashboard
+- Product Reviews
+
+---
+
+# 👨‍💻 Author
+
+**Syed Saud Alam**
+
+GitHub
+
+https://github.com/syedsaud15
+
+---
+
+# ⭐ If you like this project, don't forget to star the repository.
