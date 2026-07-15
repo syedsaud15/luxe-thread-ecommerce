@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Silk Midi Dress",
+    "description": "Elegant flowing midi dress in champagne silk with a flattering wrap silhouette.",
+    "price": 189.99,
+    "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=500&h=650&fit=crop",
+    "category": "Dresses",
+    "stock": 18
+  },
+  {
+    "id": 2,
+    "name": "Oversized Wool Coat",
+    "description": "Luxurious camel wool blend overcoat with structured shoulders and hidden buttons.",
+    "price": 329.99,
+    "image": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?w=500&h=650&fit=crop",
+    "category": "Outerwear",
+    "stock": 12
+  },
+  {
+    "id": 3,
+    "name": "Cashmere Crew Sweater",
+    "description": "Ultra-soft 100% cashmere sweater in a timeless oatmeal neutral tone.",
+    "price": 149.99,
+    "image": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=500&h=650&fit=crop",
+    "category": "Tops",
+    "stock": 30
+  },
+  {
+    "id": 4,
+    "name": "Leather Ankle Boots",
+    "description": "Handcrafted Italian leather ankle boots with a sleek stacked heel.",
+    "price": 219.99,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=500&h=650&fit=crop",
+    "category": "Footwear",
+    "stock": 22
+  },
+  {
+    "id": 5,
+    "name": "High-Waist Trousers",
+    "description": "Tailored wide-leg trousers in premium crepe fabric with a pressed crease.",
+    "price": 119.99,
+    "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=500&h=650&fit=crop",
+    "category": "Bottoms",
+    "stock": 28
+  },
+  {
+    "id": 6,
+    "name": "Quilted Crossbody Bag",
+    "description": "Iconic quilted leather crossbody with gold-tone chain strap and clasp.",
+    "price": 279.99,
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=500&h=650&fit=crop",
+    "category": "Accessories",
+    "stock": 15
+  },
+  {
+    "id": 7,
+    "name": "Linen Blazer",
+    "description": "Relaxed-fit linen blazer in soft ivory, perfect for layered spring styling.",
+    "price": 169.99,
+    "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=500&h=650&fit=crop",
+    "category": "Outerwear",
+    "stock": 20
+  },
+  {
+    "id": 8,
+    "name": "Satin Slip Skirt",
+    "description": "Bias-cut satin slip skirt with a lustrous sheen and midi length.",
+    "price": 99.99,
+    "image": "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=500&h=650&fit=crop",
+    "category": "Bottoms",
+    "stock": 35
+  }
+]
